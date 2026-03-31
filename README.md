@@ -12,9 +12,10 @@ I'm a backend-leaning full-stack developer focused on building scalable systems 
 - Tools: AWS (S3), Git, Postman
 
 ## 📌 Featured Projects
-- **IntentBase** – Production-style backend with authentication, analytics, and testing
-- **Playverse** – Mobile game tracker built with React Native and API integrations
-- **MetaPi** – Android app for image metadata editing and location tagging (client-based project)
+- **Playverse API** – Backend for a game tracking app with authentication, API integrations, and data management  
+- **Playverse Mobile** – React Native app for tracking and exploring video games  
+
+*(More projects like IntentBase will be made public soon)*
 
 ## 📫 Connect With Me
 - LinkedIn: linkedin.com/in/asifashadullah
