@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Asif
 
-<!--
-**Asif7814/Asif7814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend-leaning full-stack developer focused on building scalable systems and real-world applications.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Working On
+- Building **IntentBase** – a job application tracking platform with analytics, reflections, and structured workflows
+- Strengthening backend fundamentals (Node.js, SQL, system design)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Backend: Node.js, Express, Prisma, MySQL, MongoDB, Redis
+- Frontend: React, Next.js, TypeScript
+- Tools: AWS (S3), Git, Postman
+
+## 📌 Featured Projects
+- **IntentBase** – Production-style backend with authentication, analytics, and testing
+- **Playverse** – Mobile game tracker built with React Native and API integrations
+- **MetaPi** – Android app for image metadata editing and location tagging (client-based project)
+
+## 📫 Connect With Me
+- LinkedIn: linkedin.com/in/asifashadullah
+- Email: ashadullah.asif@outlook.com
+
+---
+Always learning, building, and improving.
