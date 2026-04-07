@@ -9,7 +9,7 @@ I'm a backend-leaning full-stack developer focused on building scalable systems 
 ## 🛠️ Tech Stack
 - Backend: Node.js, Express, Prisma, MySQL, MongoDB, Redis
 - Frontend: React, Next.js, TypeScript
-- Tools: AWS (S3), Git, Postman
+- Tools: Git, Postman
 
 ## 📌 Featured Projects
 - **Playverse API** – Backend for a game tracking app with authentication, API integrations, and data management  
